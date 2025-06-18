@@ -54,25 +54,14 @@ This project presents an interactive Power BI dashboard analyzing Dmart’s regi
 ![Dashboard Overview](https://github.com/upendra911/Dmart-Sales-Dashboard/blob/main/Dmart%20Regional%20sales%20performence.png)
 
 ### 🟢 Dashboard 2 – Category & Sub-category Breakdown
-![Category Overview](images/dashboard_preview_2.png)
+![Category Overview](https://github.com/upendra911/Dmart-Sales-Dashboard/blob/main/Dmart%20performance%20overall.png)
 
 ---
 
-## 🔍 How to Explore
-
-1. Download the `.pbix` file
-2. Open in [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
-3. Use slicers to explore different sub-categories, regions, and time periods
-4. Hover over visuals to view detailed insights
-
----
-
-## 📬 Contact & Portfolio
+## 📬 Contact 
 
 🔗 [LinkedIn](www.linkedin.com/in/upendra-b-479a04330)  
-📁 [Portfolio Projects](https://github.com/yourusername)
+
 
 ---
-
-> 🚀 This dashboard simulates real business performance monitoring in retail, using storytelling through data. Great for demonstrating business acumen and dashboarding skills in interviews.
 
