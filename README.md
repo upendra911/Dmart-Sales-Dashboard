@@ -51,7 +51,7 @@ This project presents an interactive Power BI dashboard analyzing Dmart’s regi
 ## 🖼 Dashboard Preview
 
 ### 🔷 Dashboard 1 – Regional Overview
-![Dashboard Overview](images/dashboard_preview_1.png)
+![Dashboard Overview](https://github.com/upendra911/Dmart-Sales-Dashboard/blob/main/Dmart%20Regional%20sales%20performence.png)
 
 ### 🟢 Dashboard 2 – Category & Sub-category Breakdown
 ![Category Overview](images/dashboard_preview_2.png)
